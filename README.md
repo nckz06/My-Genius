@@ -1,3 +1,3 @@
 # Recriando um jogo da memória
 O objetivo foi recriar o jogo da memória conhecido como Genius. Para isso, foi utilizado HTML, CSS e JavaScript. Sendo que o HTML foi utilizado para o desenvolvimento da estrutura que recebe o jogo; o CSS foi utilizado para aderir uma estética mais agradável para o jogo e agregar uma característica única para os elementos do jogo; e, por fim, o JavaScript foi utilizado para desenvolver e reconhecer o clique do jogador sobre as cores que aparecem, e, em seguida, verifica se o usuário acertou a cor ou se errou, tomando destinos diferentes para cada situação. Além de acrescentar um elemento visual para que o jogador tenha conhecimento sobre o nível em que se encontra e uma função que coleta o maior nível alcançado pelo jogador e salva para, quando retornar, ter conhecimento de seu melhor resultado.
-<a href="">Teste agora</a>
+<a href="https://nckz06.github.io/My-Genius/">Teste agora</a>
